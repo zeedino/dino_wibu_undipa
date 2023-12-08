@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar {
+  background-color: red;
+  height: 40px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.navbar h1 {
+  margin-left: 20px;
+  color: white;
+}
+
+.navbar ul li {
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navbar a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#gambar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 7000px;
+}
+
+.kontak {
+  background-color: bisque;
+  height: 695px;
+}
+
+.kontak table tr td {
+  width: 1000px;
+  height: 695px;
+}
+
+footer {
+  background-color: red;
+  color: white;
+  height: 40px;
+  text-align: center;
+  padding-top: 10px;
+}
